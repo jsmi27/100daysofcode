@@ -7,17 +7,17 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 > I've decided to take the 100 days of code challenge because I want to develop a coding study routine and improve my tech skills. I love computing and I believe the #100DaysOfCode challenge will help me to become a better programmer!
 
 ## Commitment
-**  I will code daily for the next 100 days. **
+> I will code daily for the next 100 days. 
 
 ## Goals
 
-- [x] Code daily
+> - [x] Code daily
 - [x] Expand portfolio - problem solving/technical skills
 - [x] Complete as many problems, courses, certifications & projects as possible
 
 ## Table of contents learnt
 
-|   DAY   |          Coding Problems          |          Courses          |          Articles          |          Projects          |
+> |   DAY   |          Coding Problems          |          Courses          |          Articles          |          Projects          |
 |---------|-----------------------------------|---------------------------|----------------------------|----------------------------|
 |  DAY 1  | [Find pair with given sum in the array](https://www.techiedelight.com/find-pair-with-given-sum-array/)| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2?trk=learning-serp_learning_search-card&upsellOrderOrigin=homepage-learning_learning-search-bar_search-submit) | [GitHub Action Hero: Eddie Jaoude](https://github.blog/2020-08-30-github-action-hero-eddie-jaoude/) | https://www.theodinproject.com/courses/web-development-101#the-basics | 
 |         | [Check if subarray with 0 sum is exists or not](https://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)| | [Operating Systems Can be Detected Using Ping Command](https://gbhackers.com/operating-systems-can-be-detected-using-ping-command/) | | 
