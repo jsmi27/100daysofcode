@@ -21,6 +21,6 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 |---------|-----------------------------------|---------------------------|----------------------------|----------------------------|
 |  DAY 1  | [Find pair with given sum in the array](https://www.techiedelight.com/find-pair-with-given-sum-array/)| | | | 
 |         | [Check if subarray with 0 sum is exists or not](https://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)| | | | 
-|         |[Print all sub-arrays with 0 sum](https://www.techiedelight.com/find-sub-array-with-0-sum/)| | | | 
+|         | [Print all sub-arrays with 0 sum](https://www.techiedelight.com/find-sub-array-with-0-sum/)| | | | 
 |         | [Sort binary array in linear time](https://www.techiedelight.com/sort-binary-array-linear-time/)| | | | 
-|         | Find a duplicate element in a limited range array](https://www.techiedelight.com/find-duplicate-element-limited-range-array/)| | | | 
+|         | [Find a duplicate element in a limited range array](https://www.techiedelight.com/find-duplicate-element-limited-range-array/)| | | | 
