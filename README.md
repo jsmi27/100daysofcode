@@ -29,3 +29,4 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 |         | [Find maximum product of two integers in an array](https://www.techiedelight.com/find-maximum-product-two-integers-array/)| | | | 
 |         | [Sort an array containing 0’s, 1’s and 2’s](https://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)| | | | 
 |         | [In place merge two sorted arrays](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)| | | | 
+|  DAY 2  | | | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | |
