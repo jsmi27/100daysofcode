@@ -31,3 +31,4 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 |         | [In place merge two sorted arrays](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)| | | | 
 |  DAY 2  | | | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | |
 |         | | | [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/?fbclid-IwAR3RQcN-IbVSpCzsfMC5R) | | 
+|  DAY 3  | | | [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) | |
