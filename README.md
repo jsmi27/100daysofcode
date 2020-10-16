@@ -33,3 +33,5 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 | | | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | |
 | | | [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/?fbclid-IwAR3RQcN-IbVSpCzsfMC5R) | | 
 | | | [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) | |
+| | | [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) | |
+| | | [How Redis Simplifies Microservices Design Patterns](https://thenewstack.io/how-redis-simplifies-microservices-design-patterns) | |
