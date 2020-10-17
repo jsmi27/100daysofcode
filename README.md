@@ -20,8 +20,8 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 
 |          Coding Problems          |          Courses          |          Articles          |          Projects          |
 |-----------------------------------|---------------------------|----------------------------|----------------------------|
-| [Find pair with given sum in the array](https://www.techiedelight.com/find-pair-with-given-sum-array/)| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2?trk=learning-serp_learning_search-card&upsellOrderOrigin=homepage-learning_learning-search-bar_search-submit) | [GitHub Action Hero: Eddie Jaoude](https://github.blog/2020-08-30-github-action-hero-eddie-jaoude/) | https://www.theodinproject.com/courses/web-development-101#the-basics | 
-| [Check if subarray with 0 sum is exists or not](https://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)| | [Operating Systems Can be Detected Using Ping Command](https://gbhackers.com/operating-systems-can-be-detected-using-ping-command/) | | 
+| [Find pair with given sum in the array](https://www.techiedelight.com/find-pair-with-given-sum-array/)| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2?trk=learning-serp_learning_search-card&upsellOrderOrigin=homepage-learning_learning-search-bar_search-submit) | [GitHub Action Hero: Eddie Jaoude](https://github.blog/2020-08-30-github-action-hero-eddie-jaoude/) | [The Odin Project](https://www.theodinproject.com/courses/web-development-101#the-basics) | 
+| [Check if subarray with 0 sum is exists or not](https://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)| | [Operating Systems Can be Detected Using Ping Command](https://gbhackers.com/operating-systems-can-be-detected-using-ping-command/) | [System Design Concepts](https://www.freecodecamp.org/news/systems-design-for-interviews/) | 
 | [Print all sub-arrays with 0 sum](https://www.techiedelight.com/find-sub-array-with-0-sum/)| | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | | 
 | [Sort binary array in linear time](https://www.techiedelight.com/sort-binary-array-linear-time/)| | [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/?fbclid-IwAR3RQcN-IbVSpCzsfMC5R) | | 
 | [Find a duplicate element in a limited range array](https://www.techiedelight.com/find-duplicate-element-limited-range-array/)| | [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) | | 
@@ -30,3 +30,6 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 | [Find maximum product of two integers in an array](https://www.techiedelight.com/find-maximum-product-two-integers-array/)| | | | 
 | [Sort an array containing 0’s, 1’s and 2’s](https://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)| | | | 
 | [In place merge two sorted arrays](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)| | | | 
+
+## Tips
+- [Java](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#ixzz64a9lnJ8B)
