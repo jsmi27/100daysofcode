@@ -32,4 +32,4 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 | [In place merge two sorted arrays](https://www.techiedelight.com/inplace-merge-two-sorted-arrays/)| | | | 
 
 ## Tips
-- [Java](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#ixzz64a9lnJ8B)
+- [Become a better Java Developer](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#ixzz64a9lnJ8B)
