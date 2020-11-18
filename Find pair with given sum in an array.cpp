@@ -52,3 +52,22 @@ int main(void)
 }
 
 
+// Time complexity = O(n) & Space Complexity = O(n)
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+int main(void)
+{
+	int arr[]={8,7,2,5,3,1};
+	int i,j,num1,num2,len,sum=10;
+	len=sizeof(arr)/sizeof(arr[0]);
+	std::unordered_map<int, int> map;
+	for(i=0;i<len;i++){
+	    if(map.find(sum-arr[i])!=map.end()){
+	    	cout<<"pair found at index "<< i <<" and "<< map[sum-arr[i]]<<" i.e. ("<< arr[i] <<" + "<< arr[map[sum-arr[i]]] <<") \n";
+	    	return 0;
+	    }
+	    map[arr[i]]= i;
+	}
+	return 0;
+}
