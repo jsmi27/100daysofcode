@@ -22,7 +22,7 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 |-----------------------------------|---------------------------|----------------------------|----------------------------|
 | [Find pair with given sum in the array](https://www.techiedelight.com/find-pair-with-given-sum-array/)| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-2?trk=learning-serp_learning_search-card&upsellOrderOrigin=homepage-learning_learning-search-bar_search-submit) | [GitHub Action Hero: Eddie Jaoude](https://github.blog/2020-08-30-github-action-hero-eddie-jaoude/) | [The Odin Project](https://www.theodinproject.com/courses/web-development-101#the-basics) | 
 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| | [Operating Systems Can be Detected Using Ping Command](https://gbhackers.com/operating-systems-can-be-detected-using-ping-command/) | [System Design Concepts](https://www.freecodecamp.org/news/systems-design-for-interviews/) | 
-| | | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | | 
+| [Even no. of digits in a number](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | | [Apache Kafka](https://www.michael-noll.com/blog/2014/08/18/apache-kafka-training-deck-and-tutorial/) | | 
 | | | [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/?fbclid-IwAR3RQcN-IbVSpCzsfMC5R) | | 
 | | | [CAP Theorem](https://www.ibm.com/cloud/learn/cap-theorem) | | 
 | | | [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) | | 
