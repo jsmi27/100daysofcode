@@ -31,9 +31,13 @@ Original 100 Days idea was proposed by Alexander Kallaway - [Official Website](h
 | | | | | 
 | | | | | 
 
-## Tips
+## Links
 - [Become a better Java Developer](https://javarevisited.blogspot.com/2018/05/10-tips-to-become-better-java-developer.html#ixzz64a9lnJ8B)
 - [System Design Courses](https://medium.com/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65)
 - [DSA](https://medium.com/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588)
-- [Microservices](https://javarevisited.blogspot.com/2019/09/top-5-courses-to-learn-soa-service-oriented-architecture-microservices.html?utm_source=dlvr.it&utm_medium=linkedin)
+- [Microservices](https://javarevisited.blogspot.com/2019/09/top-5-courses-to-learn-soa-service-oriented-architecture-microservices.html)
 - [Regular Expression](https://medium.com/javarevisited/7-best-regular-expression-courses-for-developers-to-learn-in-2021-9b8cb37bb3a5)
+
+## Resources
+- [Medium](https://medium.com/@javinpaul)
+- [Blogspot](https://javarevisited.blogspot.com/2020/05/how-to-learn-to-code-in-2020-best-books-courses-and-tips.html)
