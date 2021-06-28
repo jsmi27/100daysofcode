@@ -1,11 +1,11 @@
 /*courtesy :: https://www.linkedin.com/pulse/interview-pearls-in-shuffle-vlad-trubachov/
-
 Given array:
 [a1, a2, ..., an, b1, b2, ..., bn]
 interleave it in place to:
 [a1, b1, a2, b2, …, an, bn]
 */
 //Brute Force :
+
 #include <iostream>
 #include <vector>
 using namespace std;
