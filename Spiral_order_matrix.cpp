@@ -1,4 +1,3 @@
-//commit msg --> 2-D array
 //https://www.interviewbit.com/problems/spiral-order-matrix-i
 /*
 A = [  [ 1, 2, 3 ],
