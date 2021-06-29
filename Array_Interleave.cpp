@@ -1,4 +1,5 @@
 /*courtesy :: https://www.linkedin.com/pulse/interview-pearls-in-shuffle-vlad-trubachov/
+Contidition - The array should be balanced or contains even elements
 Given array:
 [a1, a2, ..., an, b1, b2, ..., bn]
 interleave it in place to:
@@ -10,9 +11,9 @@ interleave it in place to:
 #include <vector>
 using namespace std;
 void interleaveArray_InPlace(vector<int>& v) {
-    for (int ptr1 = 1, ptr2 = v.size() / 2; ptr1 < ptr2 && ptr2 < v.size() - 1; ptr1 += 2, ++ptr2)
-        for (int p = ptr2; p > ptr1; --p) 
-            swap(v[p], v[p - 1]);
+    for (int pos1 = 1, pos2 = v.size() / 2; pos1 < pos2 && pos2 < v.size() - 1; pos1 += 2, pos2++)
+        for (int index = pos2; index > pos1; index--) 
+            swap(v[index], v[index - 1]);
 }
 int main()
 {
